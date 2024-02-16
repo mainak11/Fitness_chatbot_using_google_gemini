@@ -6,11 +6,11 @@ https://huggingface.co/spaces/mainakhf/Fitness_chatbot
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/mainak11/Pdf_query_using_langchain_faiss_openai.git
+    git clone https://github.com/mainak11/Fitness_chatbot_using_google_gemini.git
     ```
 2. Navigate into the project directory:
     ```sh
-    cd Pdf_query_using_langchain_faiss_openai
+    cd Fitness_chatbot_using_google_gemini
     ```
 3. create env: 
     ```sh
