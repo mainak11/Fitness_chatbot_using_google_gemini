@@ -1,11 +1,2 @@
-langchain
-openai
-PyPDF2
-faiss-cpu
-tiktoken
-pinecone-client
 streamlit
-pyautogui
-streamlit_autorefresh
 google-generativeai
-langchain_google_genai
